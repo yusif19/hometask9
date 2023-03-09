@@ -1,0 +1,29 @@
+body{
+background-color:rgb(65, 48, 13)
+}
+h1{
+    color:dodgerblue
+}
+.s{
+    color: yellow;
+}
+ul li{
+    color: white;
+}
+ol li{
+    color: white;
+}
+p{
+    color: white;
+}
+ol li a{
+    color: red;
+}
+.s1{
+color: white;
+}
+.p1{
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
+}
+
